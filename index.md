@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Realistic Security GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/realistic-security/realistic-security.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+GitHub is home to the world's largest community of developers and their projects. and as security enthusiast we attempt to share with this community and make publicly available our work which is consisted essentially of exploit developments, shellcodes and small utilities that can help security professionals and system administrators in doing their job.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Realistic Security Team, is a starting star in the world of security, that hope - as young as it is - to collaborate with its experience to make a change in this world for the benefit of everybody seeking peace and making this world more secure and safe.
 
-### Markdown
+This is said, we take no responsibility for the miss-use of the content or tools present in this site.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Publication
 
-# Header 1
-## Header 2
-### Header 3
+This site is still in development phase, you will soon find some interesting publications in this section, so please, stay tuned
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/realistic-security/realistic-security.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
